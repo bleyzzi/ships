@@ -1,0 +1,75 @@
+Queue now is empty
+
+Harbour
+Pier 1:empty
+Pier 2:empty
+Pier 3:empty
+Pier 4:empty
+
+Ship Ship 1 arrived
+
+Harbour
+Pier 1:Ship 1
+Pier 2:empty
+Pier 3:empty
+Pier 4:empty
+
+Queue now is empty
+
+Ship Ship 2 arrived
+
+Ship Ship 3 arrived
+
+Ship Ship 4 arrived
+
+Harbour
+Pier 1:Ship 1
+Pier 2:Ship 2
+Pier 3:Ship 3
+Pier 4:Ship 4
+
+Queue now is empty
+
+Ship Ship 5 arrived
+
+Ship Ship 6 arrived
+
+Harbour
+Pier 1:Ship 1
+Pier 2:Ship 2
+Pier 3:Ship 3
+Pier 4:Ship 4
+
+Ships in queue: 2
+Ship 5
+Ship 6
+
+
+Harbour
+Pier 1:Ship 1
+Pier 2:Ship 5
+Pier 3:Ship 3
+Pier 4:Ship 4
+
+Ships in queue: 1
+Ship 6
+
+
+
+Harbour
+Pier 1:Ship 1
+Pier 2:Ship 5
+Pier 3:empty
+Pier 4:Ship 6
+
+Ship Ship 7 arrived
+
+Harbour
+Pier 1:Ship 1
+Pier 2:Ship 5
+Pier 3:Ship 7
+Pier 4:Ship 6
+
+Queue now is empty
+
+bad request
